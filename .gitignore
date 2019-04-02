@@ -1,0 +1,12 @@
+
+#temporary files
+*~
+
+#.idea files
+.idea
+.idea/
+.idea/workspace.xml
+**/workspace.xml
+
+#dependenices
+node_modules
